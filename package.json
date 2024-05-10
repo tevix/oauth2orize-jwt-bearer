@@ -22,7 +22,7 @@
   "main": "./lib/oauth2orize-jwt-bearer",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "oauth2orize": "~0.1.0"
+    "oauth2orize": "1.1.0"
   },
   "devDependencies": {
     "vows": "0.6.x"
